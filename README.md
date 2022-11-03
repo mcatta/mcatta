@@ -1,8 +1,15 @@
 ### Hi there 👋
 
+```kotlin
+object Me {
 
-- 🔭 I’m currently working as Android Engineer
-- 🌱 I’m currently learning Jetpack Compose
-- 👯 I’m writing articles here https://marco-cattaneo.medium.com/
-- 💬 Ask me about kotlin & android stuff
-- 📫 How to reach me: [@marco_cattaneo](https://twitter.com/marco_cattaneo)
+    val work : String = " 🔭 I’m working as Android Engineer in Moneyfarm"
+
+    val learning : String = " 🌱 I’m focusing on Jetpack Compose and related design patterns"
+
+    val writing : Pair<String, String> = "I’m writing articles" to "https://marco-cattaneo.medium.com"
+    
+    val twitter : Pair<String, String> = "@marco_cattaneo" to "https://twitter.com/marco_cattaneo" 
+    
+}
+```
