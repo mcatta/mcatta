@@ -11,7 +11,7 @@ object Me {
     
     val twitter : Pair<String, String> = "@marco_cattaneo" to "https://twitter.com/marco_cattaneo" 
     
-    val updated_at : Long = 1669063207034
+    val updated_at : Long = 1713537898
     
 }
 ```
