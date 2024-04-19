@@ -3,7 +3,7 @@
 ```kotlin
 object Me {
 
-    val work : String = " 🔭 I’m working as Android Engineer @ Moneyfarm"
+    val work : String = " 🔭 I’m working as Android Engineer @ Qonto"
 
     val learning : String = " 🌱 I’m focusing on Jetpack Compose and related design patterns"
 
